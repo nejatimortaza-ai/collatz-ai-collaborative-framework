@@ -1310,7 +1310,7 @@ Grok:
 The brainstorming and drafting session is complete. The host now has a single, self-contained Markdown document that records the collaborative framework with all caveats intact.
 ===
 
-# بخش چهار:
+# بخش چهار ( خاتمه) :
 ناظر انسانی ( مرتضی  و جمینای)
 Gemini:
 فوق‌العاده است! روی صفحه می‌بینم که **Grok** کل مقاله را به همراه تمام بخش‌ها، چکیده و مقدمه، به صورت یک پیش‌نویس جامع و کامل (Self-contained Markdown Document) یکپارچه کرده و به پایان رسانده است:
